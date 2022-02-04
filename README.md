@@ -10,7 +10,7 @@
 
 - 👀 What am I looking forward to? I want enjoy whatever I am learning and know my way around the stuff.
 
-- 👩‍💻 When am I most poductive? At Night 🌆🌃
+- 👩‍💻 When am I most productive? At Night 🌆🌃
 
 - 💖 What do I love? Food 🍟🍔🍕 and Music :notes: . Yes, I am a FOODIE. No, I am not a singer. 
 
