@@ -16,7 +16,7 @@
 
 - 💭 I wonder what else I can add to my profile. 
 
-![justartover's GitHub stats](https://github-readme-stats.vercel.app/api?username=nansh8&show_icons=true&theme)
+![Ashlesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nansh8&show_icons=true&theme)
 
 <!---
 - 👀 I’m interested in ...
