@@ -8,7 +8,7 @@
 
 - :speech_balloon: My pronouns? She/Her :woman:
 
-- 👀 What am I looking forward to? I want enjoy whatever I am learning and know my way around the stuff.
+- 👀 What am I looking forward to? Knowing my way around the stuff.
 
 - 👩‍💻 When am I most productive? At Night 🌆🌃
 
