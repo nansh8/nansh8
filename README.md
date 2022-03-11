@@ -1,6 +1,6 @@
 # WELCOME TO MY WORLD :earth_asia:
 
-- ### 👋 Hi, I’m [Ashlesha](https://github.com/nansh8) ⭐
+- ### 👋 Hi, I’m [Ash](https://github.com/nansh8) ⭐
 
 - 🌱 I’m currently learning Java.
 
