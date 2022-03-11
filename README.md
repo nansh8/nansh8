@@ -2,7 +2,7 @@
 
 - ### 👋 Hi, I’m [Ashlesha](https://github.com/nansh8) ⭐
 
-- 🌱 I’m currently learning C, SQL, HTML
+- 🌱 I’m currently learning Java.
 
 - :world_map: Where am I from? Asia
 
@@ -14,7 +14,7 @@
 
 - 💖 What do I love? Food 🍟🍔🍕 and Music :notes: . Yes, I am a FOODIE. No, I am not a singer. 
 
-- 💭 I wonder what else I can add to my profile. 
+ 
 
 ![Ashlesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nansh8&show_icons=true&theme)
 
@@ -22,6 +22,7 @@
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 💭 I wonder what else I can add to my profile.
 
 nansh8/nansh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
