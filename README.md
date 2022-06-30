@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning FrontEnd Web Development.
 
-- :world_map: Where am I from? Asia
+- :world_map: Where am I from? India
 
 - :speech_balloon: My pronouns? She/Her :woman:
 
