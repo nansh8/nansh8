@@ -2,7 +2,7 @@
 
 - ### 👋 Hi, I’m [Ash](https://github.com/nansh8) ⭐
 
-- 🌱 I’m currently learning FrontEnd Web Development.
+- 🌱 I’m currently learning FrontEnd Web Development at SheCodes Foundation.
 
 - :world_map: Where am I from? India
 
